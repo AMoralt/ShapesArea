@@ -1,0 +1,12 @@
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\bin\Debug\net6.0\ShapesArea.deps.json
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\bin\Debug\net6.0\ShapesArea.dll
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\bin\Debug\net6.0\ShapesArea.pdb
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\ShapesArea.csproj.AssemblyReference.cache
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\ShapesArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\ShapesArea.AssemblyInfoInputs.cache
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\ShapesArea.AssemblyInfo.cs
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\ShapesArea.csproj.CoreCompileInputs.cache
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\ShapesArea.dll
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\refint\ShapesArea.dll
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\ShapesArea.pdb
+C:\Users\AMoralt\RiderProjects\ShapesArea\ShapesArea\obj\Debug\net6.0\ref\ShapesArea.dll
