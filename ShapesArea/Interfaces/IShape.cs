@@ -6,10 +6,10 @@ public interface IShape
     /// <summary>
     /// Gets the area of the shape.
     /// </summary>
-    double Area => CalculateSquare();
+    double Area => CalculateArea();
     
     /// <summary>
     /// Calculates the area of the shape.
     /// </summary>
-    double CalculateSquare();
+    double CalculateArea();
 }

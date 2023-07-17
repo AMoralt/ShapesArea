@@ -27,7 +27,7 @@ public class Circle : IShape, IEquatable<Circle>
     /// <summary>
     /// Calculates the area of the circle.
     /// </summary>
-    public double CalculateSquare() => Radius * Radius * Math.PI;
+    public double CalculateArea() => Radius * Radius * Math.PI;
     
     /// <summary>
     /// Determines whether two specified <see cref="Circle"/> objects are equal.
